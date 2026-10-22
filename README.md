@@ -1,2 +1,6 @@
-# python-projects
-My Python projects, coding experiments, and learning journey.
+def main():
+    print("Hello, GitHub!")
+    print("Welcome to my Python projects.")
+
+if __name__ == "__main__":
+    main()
